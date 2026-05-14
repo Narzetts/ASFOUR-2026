@@ -1,5 +1,5 @@
 # ASFOUR 2026
-
+[alt text](https://github.com/Narzetts/ASFOUR-2026/blob/main/screenshots/halaman-utama-asfour.png)
 **ASFOUR 2026 Website** adalah website untuk mengumpulkan, mengelola, dan menganalisis aspirasi dari siswa, guru, dan warga sekolah.
 Aplikasi ini dibangun menggunakan **PHP Native**, **MySQL**, dan dilengkapi fitur **AI Analysis** berbasis **OpenRouter API**.
 
