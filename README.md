@@ -40,7 +40,7 @@ Aplikasi ini dibangun menggunakan **PHP Native**, **MySQL**, dan dilengkapi fitu
 ## Publik (Pengguna Umum)
 
 ### Landing Page
-
+![alt text](https://github.com/Narzetts/ASFOUR-2026/blob/main/screenshots/halaman-utama-asfour.png?raw=true)
 * Tampilan pembuka modern
 * Logo dan banner sekolah
 * Tombol mulai survei
@@ -48,12 +48,12 @@ Aplikasi ini dibangun menggunakan **PHP Native**, **MySQL**, dan dilengkapi fitu
 ### Form Survei Multi-Step
 
 Alur survei terdiri dari:
-
+![alt text](https://github.com/Narzetts/ASFOUR-2026/blob/main/screenshots/form-asfour.png?raw=true)
 1. Landing
 2. Loading
 3. Form
 4. Thank You
-
+![alt text](https://github.com/Narzetts/ASFOUR-2026/blob/main/screenshots/selesai-mengisi-asfour.png?raw=true)
 ### Role Pengguna
 
 Pilihan role:
@@ -98,7 +98,7 @@ Tampilan mobile-friendly dan desktop-friendly.
 ---
 
 ## Admin Dashboard
-
+![alt text](https://github.com/Narzetts/ASFOUR-2026/blob/main/screenshots/dashboard-admin.png?raw=true)
 ### Overview
 
 Statistik jumlah responden:
@@ -109,14 +109,14 @@ Statistik jumlah responden:
 * Warga Sekolah
 
 ### Survey Responses
-
+![alt text](https://github.com/Narzetts/ASFOUR-2026/blob/main/screenshots/isi-asfour.png?raw=true)
 * Tabel seluruh aspirasi
 * Search
 * Filter data
 * Export CSV
 
 ### Media Gallery
-
+![alt text](https://github.com/Narzetts/ASFOUR-2026/blob/main/screenshots/lampiran-asfour.png?raw=true)
 Preview file upload:
 
 * Gambar inline
@@ -124,24 +124,24 @@ Preview file upload:
 * Download file lain
 
 ### AI Analysis
-
+![alt text](https://github.com/Narzetts/ASFOUR-2026/blob/main/screenshots/ai-analisis.png?raw=true)
 * Analisis AI otomatis
 * Grafik distribusi kategori
 * Tabel hasil analisis
 
 ### Settings
-
+![alt text](https://github.com/Narzetts/ASFOUR-2026/blob/main/screenshots/setting-asfour.png?raw=true)
 * Toggle buka/tutup survei
 * Khusus `admin` dan `super_admin`
 
 ### Admin Management
-
+![alt text](https://github.com/Narzetts/ASFOUR-2026/blob/main/screenshots/admin-management.png?raw=true)
 * Tambah admin
 * Hapus admin
 * Khusus `super_admin`
 
 ### Activity Logs
-
+![alt text](https://github.com/Narzetts/ASFOUR-2026/blob/main/screenshots/activity-log.png?raw=true)
 Menyimpan aktivitas admin.
 
 ### Sidebar Navigation
