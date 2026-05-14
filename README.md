@@ -1,6 +1,6 @@
-# ASFOUR 2026 - Aplikasi Survei Aspirasi Sekolah
+# ASFOUR 2026
 
-**ASFOUR (Aspirasi Four)** adalah aplikasi berbasis web untuk mengumpulkan, mengelola, dan menganalisis aspirasi dari siswa, guru, dan warga sekolah.
+**ASFOUR 2026 Website** adalah website untuk mengumpulkan, mengelola, dan menganalisis aspirasi dari siswa, guru, dan warga sekolah.
 Aplikasi ini dibangun menggunakan **PHP Native**, **MySQL**, dan dilengkapi fitur **AI Analysis** berbasis **OpenRouter API**.
 
 ---
